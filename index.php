@@ -125,56 +125,52 @@
         <div class="work_type clear pt60">
         	<div class="title mt20"><i></i>一APP类<a href="javascript:;" class="more">更多>></a></div>
             <ul class="app_list worklist">
-                <li><img src="images/works/全名枪宝石活动.jpg" alt="全名枪宝石活动"></li>
                 <li><img src="images/works/app2.jpg" alt=""></li>
                 <li><img src="images/works/app3.jpg" alt=""></li>
-                <li><img src="images/works/伴我游.jpg" alt="伴我游"></li>
+                <li><img src="images/works/bwy.jpg" alt="伴我游"></li>
                 <li><img src="images/works/app5.jpg" alt=""></li>
-                <li><img src="images/works/全名游戏.jpg" alt="全名游戏"></li>
-                <li><img src="images/works/AB配对活动.jpg" alt="AB配对活动"></li>
+                <li><img src="images/works/qmyx.jpg" alt="全名游戏"></li>
+                <li><img src="images/works/ABpdhd.jpg" alt="AB配对活动"></li>
                 <li><img src="images/works/super_star.jpg" alt="super_star"></li>
-                <li><img src="images/works/伴我游.jpg" alt="伴我游"></li>
-                <li><img src="images/works/伴我游-登录.jpg" alt="伴我游-登录"></li>
-                <li><img src="images/works/滴滴打车-元旦.jpg" alt="滴滴打车-元旦"></li>
-                <li><img src="images/works/地图接入.jpg" alt="地图接入"></li>
-                <li><img src="images/works/勾搭一下-app.jpg" alt="勾搭一下-app"></li>
-                <li><img src="images/works/刮刮乐活动.jpg" alt="刮刮乐活动"></li>
-                <li><img src="images/works/官网APP内嵌.jpg" alt="官网APP内嵌"></li>
-                <li><img src="images/works/光棍脱单活动.jpg" alt="光棍脱单活动"></li>
-                <li><img src="images/works/韩娱明星排行.jpg" alt="韩娱明星排行"></li>
-                <li><img src="images/works/话题吹吹.jpg" alt="话题吹吹"></li>
-                <li><img src="images/works/开宝箱-1.jpg" alt="开宝箱-1"></li>
-                <li><img src="images/works/开宝箱-2.jpg" alt="开宝箱-2"></li>
-                <li><img src="images/works/客户端.jpg" alt="客户端"></li>
-                <li><img src="images/works/女神联盟.jpg" alt="女神联盟"></li>
-                <li><img src="images/works/朋友app1.jpg" alt="朋友app1"></li>
-                <li><img src="images/works/朋友app2.jpg" alt="朋友app2"></li>
-                <li><img src="images/works/拼人品抢宝石活动.jpg" alt="拼人品抢宝石活动"></li>
-                <li><img src="images/works/平安银行-点灯活动.jpg" alt="平安银行-点灯活动"></li>
-                <li><img src="images/works/全名疯狂游戏.jpg" alt="全名疯狂游戏"></li>
-                <li><img src="images/works/圣诞节-礼物.jpg" alt="圣诞节-礼物"></li>
-                <li><img src="images/works/世界杯.jpg" alt="世界杯"></li>
-                <li><img src="images/works/贪吃蛇.jpg" alt="贪吃蛇"></li>
-                <li><img src="images/works/微信游戏列表.jpg" alt="微信游戏列表"></li>
-                <li><img src="images/works/寻找有缘人.jpg" alt="寻找有缘人"></li>
+                <li><img src="images/works/bwy-dl.jpg" alt="伴我游-登录"></li>
+                <li><img src="images/works/dddc-yd.jpg" alt="滴滴打车-元旦"></li>
+                <li><img src="images/works/dtjr.jpg" alt="地图接入"></li>
+                <li><img src="images/works/gdyx-app.jpg" alt="勾搭一下-app"></li>
+                <li><img src="images/works/gglhd.jpg" alt="刮刮乐活动"></li>
+                <li><img src="images/works/gwAPPnl.jpg" alt="官网APP内嵌"></li>
+                <li><img src="images/works/ggtdhd.jpg" alt="光棍脱单活动"></li>
+                <li><img src="images/works/hymxph.jpg" alt="韩娱明星排行"></li>
+                <li><img src="images/works/htcc.jpg" alt="话题吹吹"></li>
+                <li><img src="images/works/kbx-1.jpg" alt="开宝箱-1"></li>
+                <li><img src="images/works/kbx-2.jpg" alt="开宝箱-2"></li>
+                <li><img src="images/works/khd.jpg" alt="客户端"></li>
+                <li><img src="images/works/nslm.jpg" alt="女神联盟"></li>
+                <li><img src="images/works/pyapp1.jpg" alt="朋友app1"></li>
+                <li><img src="images/works/pyapp2.jpg" alt="朋友app2"></li>
+                <li><img src="images/works/prpqbshd.jpg" alt="拼人品抢宝石活动"></li>
+                <li><img src="images/works/payh-ddhd.jpg" alt="平安银行-点灯活动"></li>
+                <li><img src="images/works/qmfkyx.jpg" alt="全名疯狂游戏"></li>
+                <li><img src="images/works/sdj-lw.jpg" alt="圣诞节-礼物"></li>
+                <li><img src="images/works/sjb.jpg" alt="世界杯"></li>
+                <li><img src="images/works/tcs.jpg" alt="贪吃蛇"></li>
+                <li><img src="images/works/wxyxlb.jpg" alt="微信游戏列表"></li>
+                <li><img src="images/works/xzyyr.jpg" alt="寻找有缘人"></li>
             </ul>
         </div>
         <div class="work_type clear">
         	<div class="title"><i></i>一web类<a href="javascript:;" class="more">更多>></a></div>
             <ul class="web_list worklist">
-                <li><em></em><img src="images/works/web1.jpg" alt="网商群"></li>
+                <li><img src="images/works/web1.jpg" alt="网商群"></li>
                 <li><img src="images/works/web2.jpg" alt=""></li>
                 <li><img src="images/works/web3.jpg" alt="球天下APP下载"></li>
-                <li><img src="images/works/新科技软件官网.jpg" alt="新科技软件官网"></li>
-                <li><img src="images/works/易城商城.jpg" alt="易城商城"></li>
-                <li><img src="images/works/世界杯2.jpg" alt="世界杯2"></li>
-                <li><img src="images/works/星树官网改版.jpg" alt="星树官网改版"></li>
+                <li><img src="images/works/xkjrjgw.jpg" alt="新科技软件官网"></li>
+                <li><img src="images/works/ecsc.jpg" alt="易城商城"></li>
+                <li><img src="images/works/sjb2.jpg" alt="世界杯2"></li>
+                <li><img src="images/works/xsgwgb.jpg" alt="星树官网改版"></li>
             </ul>
         </div>
     </div>
 </div>
-
-
 
 <div class="showImg"><img src="" alt="" id="showImg" width="auto" height="auto"></div>
 <script>
